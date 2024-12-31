@@ -1,0 +1,3 @@
+https://github.com/rust-windowing/winit/tree/master
+the examples/window.rs and the Cargo.toml were greatly 
+widdled down to create this program to get the monitor size.
